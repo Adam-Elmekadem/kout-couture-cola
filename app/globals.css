@@ -132,7 +132,7 @@ dialog::backdrop{background:rgba(11,8,7,.72);backdrop-filter:blur(4px)}
 .bag-close{margin:-12px -12px 0 0}
 .bag-items{overflow:auto;flex:1}
 .bag-item{display:flex;gap:16px;padding:22px 0;border-bottom:1px solid var(--line)}
-.bag-item img{object-fit:cover;background:#ddd4ca;flex:none}
+.bag-item img{width:90px;height:110px;object-fit:cover;background:#ddd4ca;flex:none}
 .bag-item>div{display:flex;flex-direction:column;gap:8px;font-size:12px}
 .bag-item strong{font-size:17px}
 .bag-item button{border:0;background:transparent;text-decoration:underline;padding:0;text-align:left;margin-top:8px;align-self:start;font-size:12px}
